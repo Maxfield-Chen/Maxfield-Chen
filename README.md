@@ -1,6 +1,8 @@
 ![Go Sensei](https://maxfieldchen.com/images/pretty.PNG)
 
-I am a life-long technophile with interests in computer security, functional programming, systems design, and general hackery. I have spent the last two years working at Security Innovation as a Security Engineer.
+I am a life-long technophile with interests in computer security, functional programming, systems design, and general hackery. I spent five odd years working at Security Innovation doing all manner of penetration testing and hackery.
+
+This year I joined Cedar as a Sr. Application Security Engineer!
 
 My specialties are embedded devices, binary exploitation, and producing educational content for security professionals.
 
