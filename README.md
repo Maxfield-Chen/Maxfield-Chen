@@ -1,23 +1,9 @@
 ![Go Sensei](https://maxfieldchen.com/images/pretty.PNG)
 
-I am a life-long technophile with interests in computer security, functional programming, systems design, and general hackery. I spent five odd years working at Security Innovation doing all manner of penetration testing and hackery.
+I am a life-long technophile with interests in computer security, functional programming, systems design, and general hackery. I spent five odd years working at Security Innovation doing all manner of penetration testing and bit banging.
 
-This year I joined Cedar as a Sr. Application Security Engineer!
+Last year I joined Cedar as a Sr. Application Security Engineer!
 
-My specialties are embedded devices, binary exploitation, and producing educational content for security professionals.
+My specialties are building security teams from the ground up. I love threat modeling, secure architecture design, embedded devices, and producing educational content for security professionals.
 
 🔭 I'm currently working on a type-safe [board game server](https://github.com/Maxfield-Chen/liberty-go-server) in Haskell using the Servant and Reflex libraries!
-<!--
-**Maxfield-Chen/Maxfield-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
